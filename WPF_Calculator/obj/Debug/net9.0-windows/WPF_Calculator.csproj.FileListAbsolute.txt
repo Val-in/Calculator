@@ -1,0 +1,40 @@
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\bin\Debug\net9.0-windows\WPF_Calculator.exe
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\bin\Debug\net9.0-windows\WPF_Calculator.deps.json
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\bin\Debug\net9.0-windows\WPF_Calculator.runtimeconfig.json
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\bin\Debug\net9.0-windows\WPF_Calculator.dll
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\bin\Debug\net9.0-windows\WPF_Calculator.pdb
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\App.g.cs
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator_MarkupCompile.cache
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator_MarkupCompile.lref
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\MainWindow.baml
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.g.resources
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.AssemblyInfoInputs.cache
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.AssemblyInfo.cs
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.csproj.CoreCompileInputs.cache
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.dll
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\refint\WPF_Calculator.dll
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.pdb
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.genruntimeconfig.cache
+D:\本机个人文件\Programming\C#\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\ref\WPF_Calculator.dll
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\bin\Debug\net9.0-windows\WPF_Calculator.exe
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\bin\Debug\net9.0-windows\WPF_Calculator.deps.json
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\bin\Debug\net9.0-windows\WPF_Calculator.runtimeconfig.json
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\bin\Debug\net9.0-windows\WPF_Calculator.dll
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\bin\Debug\net9.0-windows\WPF_Calculator.pdb
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\App.g.cs
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator_MarkupCompile.cache
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator_MarkupCompile.lref
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.g.resources
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.AssemblyInfoInputs.cache
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.AssemblyInfo.cs
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.dll
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\refint\WPF_Calculator.dll
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.pdb
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.genruntimeconfig.cache
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\ref\WPF_Calculator.dll
