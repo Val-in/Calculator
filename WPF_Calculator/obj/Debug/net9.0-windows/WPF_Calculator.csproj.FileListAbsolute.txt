@@ -38,3 +38,4 @@ D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Deb
 D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.pdb
 D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.genruntimeconfig.cache
 D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\ref\WPF_Calculator.dll
+D:\Personal\Programming\C sharp\MyProjects\WPF_Calculator\WPF_Calculator\obj\Debug\net9.0-windows\WPF_Calculator.sourcelink.json
